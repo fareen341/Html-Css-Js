@@ -43,4 +43,7 @@
 11. What is an element in HTML? Difference in element and tag?
 12. What are void elements in HTML? What is self closing tags?
 13. What is white space in HTML?
-14. 
+14. What is the difference between “display: none” and “visibility: hidden” when used as attributes to the HTML element?
+- Elements with “display: none” are not visible and do not take up any space on the page, while elements with “visibility: hidden” are not visible but still take up space.
+
+15. 
