@@ -36,4 +36,11 @@
 ````
 <hr>
 
-
+7. What are HTML Attributes?
+8. What is a marquee in HTML?
+9. Define the list types in HTML.
+10. How do you align list elements in an HTML file?
+11. What is an element in HTML? Difference in element and tag?
+12. What are void elements in HTML? What is self closing tags?
+13. What is white space in HTML?
+14. 
