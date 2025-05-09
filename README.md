@@ -53,7 +53,36 @@
 
 16. When to use scripts in the head and when to use scripts in the body?
 - When the page is not loaded then use it in head else use it at end of body after thr dom is loaded fully(best practice). 
+<hr>
 
+17. What are inline and block elements in HTML5?
+18. What is the difference between <figure> tag and <img> tag?
+- figure tag to primarily group related content, such as an image and its caption or a code block and description. Examples of this type of material include diagrams, pictures, codes, and illustrations.
+<hr>
+
+19. Storage in html? Session and local
+- SessionStorage stores data only for the current session. The data is deleted when the tab or window is closed; local storage stores data with no expiration date and persists until deleted. Thus, LocalStorage stores data with no expiration time, while SessionStorage only retains data for the duration of the page session.
+```text
+# Session Storage
+sessionStorage.setItem("username", "Alice");
+
+const user = sessionStorage.getItem("username");
+console.log(user); // "Alice"
+
+# Local Storage
+// Save data
+localStorage.setItem("username", "Alice");
+
+// Get data
+let user = localStorage.getItem("username"); // "Alice"
+
+// Remove data
+localStorage.removeItem("username");
+
+// Clear all data
+localStorage.clear();
+```
+<hr>
 
 
 
