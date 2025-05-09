@@ -84,6 +84,30 @@ localStorage.clear();
 ```
 <hr>
 
+20. How can we include audio or video in a webpage?
+- Using audio and video tag.
+```html
+<audio controls>
+  <source src="horse.ogg" type="audio/ogg">
+  <source src="horse.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+Same with video
+```
+<hr>
+
+30. Create Draggable image in html5?
+- Using draggable = "true"
+<hr>
+
+31. What are the different approaches to making an image responsive?
+- CSS: Set the CSS width attribute to 100% and the height to auto if you want the picture to respond by scaling up and down.
+<hr>
+
+32. 
+
+
 
 
 
