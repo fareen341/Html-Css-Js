@@ -51,6 +51,9 @@
 - The link tag links external resources, such as CSS stylesheets, to an HTML document. The a tag creates links to other pages or resources within the same document.
 <hr>
 
+16. When to use scripts in the head and when to use scripts in the body?
+- When the page is not loaded then use it in head else use it at end of body after thr dom is loaded fully(best practice). 
+
 
 
 
