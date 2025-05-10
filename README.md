@@ -105,8 +105,10 @@ Same with video
 - CSS: Set the CSS width attribute to 100% and the height to auto if you want the picture to respond by scaling up and down.
 <hr>
 
+# CSS
 
 <hr />
+
 1. Position, Difference in relative and absolute?
 - Relative: Stay where you are normally, but now I can move you a little bit with top, left, right, or bottom.
 - Absoulte: Forget where you were supposed to be. Go exactly here, using top, left, right, or bottom — and find the nearest ancestor that has a position set. In above code i gave absolute to my parent div so now it'll take position from that parent. That parent position can be sticky, fixed, relative or absolute.
